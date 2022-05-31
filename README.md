@@ -6,7 +6,7 @@ Program to manage and colect missing information from movies and TV shows. It co
 
 ## Author
 
-👤 **Rodrigo Patricio**
+👤 **Rodrigo Patricio & Matheus Wintruff**
 
 * Twitter: [@rodrigo\_patt](https://twitter.com/rodrigo\_patt)
 * Github: [@RodrigoPatricio](https://github.com/RodrigoPatricio)
