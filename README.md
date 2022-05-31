@@ -9,8 +9,8 @@ Program to manage and colect missing information from movies and TV shows. It co
 👤 **Rodrigo Patricio & Matheus Wintruff**
 
 * Twitter: [@rodrigo\_patt](https://twitter.com/rodrigo\_patt)
-* Github: [@RodrigoPatricio](https://github.com/RodrigoPatricio) [@MathWintruff](https://github.com/MathWintruff)
-* LinkedIn: [@rodrigoo\_patt](https://linkedin.com/in/rodrigoo\_patt) [@matheus-wintruff](https://www.linkedin.com/in/matheus-wintruff/)
+* Github: [@RodrigoPatricio](https://github.com/RodrigoPatricio) | [@MathWintruff](https://github.com/MathWintruff)
+* LinkedIn: [@rodrigoo\_patt](https://linkedin.com/in/rodrigoo\_patt) | [@matheus-wintruff](https://www.linkedin.com/in/matheus-wintruff/)
 
 ## Show your support
 
